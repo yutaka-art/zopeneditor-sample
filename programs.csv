@@ -1,0 +1,4 @@
+pgm_name,source_path,language,note
+PSAM2,PLI/PSAM2.pli,PLI,PROCEDURE name matches filename
+PSAM1,PLI/PSAM1.pli,PLI,PROCEDURE name matches filename - duplicate program name
+PSAM1,PLI/PSAM1LIB.pli,PLI,PROCEDURE name matches filename - duplicate program name (different variant with library includes)
