@@ -1,0 +1,11 @@
+job_name,jcl_path,note
+ZDERUN,JCL/RUN.jcl,
+WAZIASM1,JCL/RUNASAM1.jcl,
+ZDEPSM1,JCL/RUNPSAM1.jcl,
+ZDEPLIA,JCL/PLIALLOC.jcl,
+ZDEALLC,JCL/REXALLOC.jcl,
+ZDEALLC,JCL/ALLOCATE.jcl,
+WAZIASMA,JCL/ASMALLOC.jcl,
+IBMUSER,JCL/INCLUDE.jcl,
+UNKNOWN,JCLLIB/COMPSET.jcl,No JOB statement found - contains only SET statements
+UNKNOWN,JCLPROC/COMPROC.jcl,No JOB statement found - PROC definition file
